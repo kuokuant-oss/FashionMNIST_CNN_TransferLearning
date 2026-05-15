@@ -1,4 +1,4 @@
-# Assignment 6: Fashion MNIST 圖像分類
+# Fashion MNIST 圖像分類
 
 使用 PyTorch 訓練多種神經網路架構，對 Fashion MNIST 服裝圖像資料集進行分類。
 
